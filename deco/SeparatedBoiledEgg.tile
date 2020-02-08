@@ -3,13 +3,13 @@
   "categories": [
     "furniture"
   ],
-  "code": "lydocia.decorator.ChickenEgg",
+  "code": "lydocia.SeparatedBoiledEgg",
   "pricing": {
-    "buyable": true,
-    "catalogueUnlockedFromStart": true,
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
     "sellPrice": 8,
     "value": 20
   },
   "searchable": true,
-  "voxels": "mods/Decorator/deco/ChickenEgg.qb"
+  "voxels": "mods/Decoration Stations/deco/SeparatedBoiledEgg.qb"
 }

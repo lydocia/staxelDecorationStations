@@ -1,6 +1,6 @@
 {
-  "code": "lydocia.decorator.ChickenEgg.reaction",
-  "recipeStep": "Decorate",
+  "code": "lydocia.SeparatedBoiledEgg.reaction",
+  "recipeStep": "Separate",
   "tools": [],
   "reagents": [
     {
@@ -11,7 +11,7 @@
   "results": [
     {
       "kind": "staxel.item.Placer",
-      "tile": "lydocia.decorator.ChickenEgg",
+      "tile": "lydocia.SeparatedBoiledEgg",
       "quantity": 1
     }
   ],

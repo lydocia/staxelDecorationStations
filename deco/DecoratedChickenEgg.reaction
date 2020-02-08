@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.DecoratedChickenEgg.reaction",
+  "recipeStep": "Decorate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.DecoratedChickenEgg",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}
