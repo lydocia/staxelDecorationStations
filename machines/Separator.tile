@@ -12,13 +12,13 @@
       "z": 1
     }
   },
-  "descriptionImage": "mods/separator/icons/DecorateIcon.png",
+  "descriptionImage": "mods/Decoration Stations/icons/SeparateIcon.png",
   "dockDefinition": "lydocia.separator.dock",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
     "sellPrice": 100,
-    "value": 200
+    "value": 1000
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",

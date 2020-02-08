@@ -1,9 +1,20 @@
 language.code=en-GB
 language=English
 
-xable.decorator.machine.name=Decorator
-xable.decorator.machine.description=A machine to turn items into their decorative counterparts.
-xable.combinator.machine.name=Combinator
-xable.combinator.machine.description=A machine to combine items into decorative pieces.
-xable.separator.machine.name=Separator
-xable.separator.machine.description=A machine to cut items into pieces.
+lydocia.decorator.machine.name=Decorator
+lydocia.decorator.machine.description=A machine to turn items into their decorative counterparts.
+
+lydocia.combinator.machine.name=Combinator
+lydocia.combinator.machine.description=A machine to combine items into decorative pieces.
+
+lydocia.separator.machine.name=Separator
+lydocia.separator.machine.description=A machine to cut items into pieces.
+
+lydocia.DecoratedChickenEgg.name=Decorated Chicken Egg
+lydocia.DecoratedChickenEgg.description=Decorative item.
+
+lydocia.CombinatedEggBasket.name=Combinated Egg Basket
+lydocia.CombinatedEggBasket.description=Decorative item.
+
+lydocia.SeparatedBoiledEgg.name=Separated Boiled Egg
+lydocia.SeparatedBoiledEgg.description=Decorative item.

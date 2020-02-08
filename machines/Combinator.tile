@@ -2,17 +2,10 @@
   "__inherits": "staxel/docks/dockBase.config",
   "attachToBelow": true,
   "categories": [
-    "counter",
-    "surface",
-    "countertop",
-    "furniture",
-    "brown",
-    "white",
-    "craftingStation",
-    "tool",
-    "combine"
+    "station",
+    "combinator"
   ],
-  "code": "staxel.tileObject.serverVillage.CombiningStation",
+  "code": "lydocia.combinator.machine",
   "compound": {
     "size": {
       "x": 2,
@@ -20,8 +13,8 @@
       "z": 1
     }
   },
-  "descriptionImage": "staxel/ui/image/CraftingIcons/CombineIcon.png",
-  "dockDefinition": "staxel.docks.CombiningStation",
+  "descriptionImage": "mods/Decoration Stations/icons/CombinateIcon.png",
+  "dockDefinition": "lydocia.commbinator.dock",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
@@ -30,5 +23,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "staxel/tileObject/crafting/cooking/CombiningStation.qb"
+  "voxels": "mods/Decorator/machines/Combinator.qb"
 }
