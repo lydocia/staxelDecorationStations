@@ -1,0 +1,9 @@
+language.code=en-GB
+language=English
+
+xable.decorator.machine.name=Decorator
+xable.decorator.machine.description=A machine to turn items into their decorative counterparts.
+xable.combinator.machine.name=Combinator
+xable.combinator.machine.description=A machine to combine items into decorative pieces.
+xable.separator.machine.name=Separator
+xable.separator.machine.description=A machine to cut items into pieces.

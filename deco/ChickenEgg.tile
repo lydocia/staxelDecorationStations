@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "lydocia.decorator.ChickenEgg",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 8,
+    "value": 20
+  },
+  "searchable": true,
+  "voxels": "mods/Decorator/deco/ChickenEgg.qb"
+}

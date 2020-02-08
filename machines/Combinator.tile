@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "attachToBelow": true,
+  "categories": [
+    "counter",
+    "surface",
+    "countertop",
+    "furniture",
+    "brown",
+    "white",
+    "craftingStation",
+    "tool",
+    "combine"
+  ],
+  "code": "staxel.tileObject.serverVillage.CombiningStation",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "descriptionImage": "staxel/ui/image/CraftingIcons/CombineIcon.png",
+  "dockDefinition": "staxel.docks.CombiningStation",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "staxel/tileObject/crafting/cooking/CombiningStation.qb"
+}
