@@ -22,5 +22,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/separator/machines/separator.qb"
+  "voxels": "mods/Decoration Stations/machines/separator.qb"
 }

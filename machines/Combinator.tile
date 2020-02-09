@@ -14,7 +14,7 @@
     }
   },
   "descriptionImage": "mods/Decoration Stations/icons/CombinateIcon.png",
-  "dockDefinition": "lydocia.commbinator.dock",
+  "dockDefinition": "lydocia.combinator.dock",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
@@ -23,5 +23,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/Decorator/machines/Combinator.qb"
+  "voxels": "mods/Decoration Stations/machines/Combinator.qb"
 }

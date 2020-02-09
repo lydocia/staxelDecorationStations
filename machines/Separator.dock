@@ -1,5 +1,5 @@
 {
-  "code": "lydocia.decimator.dock",
+  "code": "lydocia.separator.dock",
   "craftingKeyword": "Separate",
   "removeReagentsOnCraftStart": false,
   "nameTagOffset": {
@@ -14,8 +14,8 @@
       "allowStacks": true,
       "siteName": "thingIn",
       "location": {
-        "x": 1.0,
-        "y": 1.0,
+        "x": 0.0,
+        "y": 1.2,
         "z": 0.0
       },
       "rotation": {
@@ -30,7 +30,7 @@
       "siteName": "thingOut",
       "disallowManualDocking": true,
       "location": {
-        "x": 1.0,
+        "x": 0.0,
         "y": 1.0,
         "z": 0.0
       },

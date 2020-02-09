@@ -11,5 +11,5 @@
     "value": 20
   },
   "searchable": true,
-  "voxels": "mods/Decoration Stations/deco/ChickenEgg.qb"
+  "voxels": "mods/Decoration Stations/deco/DecoratedChickenEgg.qb"
 }
