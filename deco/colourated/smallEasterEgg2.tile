@@ -3,13 +3,13 @@
   "categories": [
     "furniture"
   ],
-  "code": "lydocia.DecoratedChickenEgg",
+  "code": "lydocia.colourated.egg.two",
   "pricing": {
     "buyable": false,
     "catalogueUnlockedFromStart": false,
-    "sellPrice": 8,
-    "value": 20
+    "sellPrice": 30,
+    "value": 50
   },
   "searchable": true,
-  "voxels": "mods/Decoration Stations/deco/DecoratedChickenEgg.qb"
+  "voxels": "mods/DecorationStations/deco/colourated/EggEaster2.qb"
 }

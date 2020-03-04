@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.SeparatedCakePlain.reaction",
+  "recipeStep": "Separate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CakePlain",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.SeparatedCakePlain",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

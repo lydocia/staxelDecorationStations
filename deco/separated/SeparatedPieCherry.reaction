@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.SeparatedPieCherry.reaction",
+  "recipeStep": "Separate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCherry",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.SeparatedPieCherry",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

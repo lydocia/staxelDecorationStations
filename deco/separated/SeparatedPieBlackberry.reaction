@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.SeparatedPieBlackberry.reaction",
+  "recipeStep": "Separate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieBlackberry",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.SeparatedPieBlackberry",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

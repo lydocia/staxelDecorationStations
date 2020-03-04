@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.SeparatedPieApple.reaction",
+  "recipeStep": "Separate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieApple",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.SeparatedPieApple",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

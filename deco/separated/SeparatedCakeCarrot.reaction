@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.SeparatedCakeCarrot.reaction",
+  "recipeStep": "Separate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CakeCarrot",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.SeparatedCakeCarrot",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

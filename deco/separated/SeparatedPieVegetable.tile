@@ -3,7 +3,7 @@
   "categories": [
     "furniture"
   ],
-  "code": "lydocia.CombinatedEggBasket",
+  "code": "lydocia.SeparatedPieVegetable",
   "pricing": {
     "buyable": false,
     "catalogueUnlockedFromStart": false,
@@ -11,5 +11,5 @@
     "value": 20
   },
   "searchable": true,
-  "voxels": "mods/Decoration Stations/deco/CombinatedEggBasket.qb"
+  "voxels": "mods/Decoration Stations/deco/separated/SeparatedPieVegetable.qb"
 }

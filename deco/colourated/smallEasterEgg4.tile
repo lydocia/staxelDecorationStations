@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "lydocia.colourated.egg.four",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "voxels": "mods/DecorationStations/deco/colourated/EggEaster4.qb"
+}

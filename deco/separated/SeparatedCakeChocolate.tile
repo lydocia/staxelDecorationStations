@@ -1,0 +1,15 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture"
+  ],
+  "code": "lydocia.SeparatedCakeChocolate",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 8,
+    "value": 20
+  },
+  "searchable": true,
+  "voxels": "mods/Decoration Stations/deco/separated/SeparatedCakeChocolate.qb"
+}

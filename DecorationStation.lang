@@ -1,20 +1,107 @@
 language.code=en-GB
 language=English
 
-lydocia.decorator.machine.name=Decorator
-lydocia.decorator.machine.description=A machine to turn items into their decorative counterparts.
-
 lydocia.combinator.machine.name=Combinator
 lydocia.combinator.machine.description=A machine to combine items into decorative pieces.
+
+lydocia.decorator.machine.name=Decorator
+lydocia.decorator.machine.description=A machine to turn items into their decorative counterparts.
 
 lydocia.separator.machine.name=Separator
 lydocia.separator.machine.description=A machine to cut items into pieces.
 
-lydocia.DecoratedChickenEgg.name=Decorated Chicken Egg
-lydocia.DecoratedChickenEgg.description=Decorative item.
+lydocia.colourator.machine.name=Colourator
+lydocia.colourator.machine.description=A machine to paint eggs.
+
+lydocia.colourated.egg.gold.name=Colourated Egg - Golden
+lydocia.colourated.egg.gold.description=A painted egg.
+
+lydocia.colourated.egg.one.name=Colourated Egg - Easter 1
+lydocia.colourated.egg.one.description=A painted egg.
+
+lydocia.colourated.egg.two.name=Colourated Egg - Easter 2
+lydocia.colourated.egg.two.description=A painted egg.
+
+lydocia.colourated.egg.three.name=Colourated Egg - Easter 3
+lydocia.colourated.egg.three.description=A painted egg.
+
+lydocia.colourated.egg.four.name=Colourated Egg - Easter 4
+lydocia.colourated.egg.four.description=A painted egg.
+
+lydocia.colourated.egg.five.name=Colourated Egg - Easter 5
+lydocia.colourated.egg.five.description=A painted egg.
+
+lydocia.colourated.egg.yoshi.name=Colourated Egg - Yoshi 
+lydocia.colourated.egg.yoshi.description=A painted egg.
 
 lydocia.CombinatedEggBasket.name=Combinated Egg Basket
 lydocia.CombinatedEggBasket.description=Decorative item.
 
+lydocia.DecoratedChickenEgg.name=Decorated Chicken Egg
+lydocia.DecoratedChickenEgg.description=Decorative item.
+
 lydocia.SeparatedBoiledEgg.name=Separated Boiled Egg
 lydocia.SeparatedBoiledEgg.description=Decorative item.
+
+lydocia.SeparatedBread.name=Separated Bread
+lydocia.SeparatedBread.description=A loaf of bread with a slice cut off.
+
+lydocia.SeparatedCakeCarrot.name=Separated Carrot Cake
+lydocia.SeparatedCakeCarrot.description=A slice of cake on a plate.
+
+lydocia.SeparatedCakeCheese.name=Separated Cheese Cake
+lydocia.SeparatedCakeCheese.description=A slice of cake on a plate.
+
+lydocia.SeparatedCakeChocolate.name=Separated Chocolate Cake
+lydocia.SeparatedCakeChocolate.description=A slice of cake on a plate.
+
+lydocia.SeparatedCakePlain.name=Separated Plain Cake
+lydocia.SeparatedCakePlain.description=A slice of cake on a plate.
+
+lydocia.SeparatedIcedCake.name=Separated Iced Cake
+lydocia.SeparatedIcedCake.description=A slice of cake on a plate.
+
+lydocia.SeparatedPieApple.name=Separated Apple Pie
+lydocia.SeparatedPieApple.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieBlackberry.name=Separated Blackberry Pie
+lydocia.SeparatedPieBlackberry.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieBlueberry.name=Separated Blueberry Pie
+lydocia.SeparatedPieBlueberry.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieCherry.name=Separated Cherry Pie
+lydocia.SeparatedPieCherry.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieDragonfruit.name=Separated Dragonfruit Pie
+lydocia.SeparatedPieDragonfruit.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieLemon.name=Separated Lemon Pie
+lydocia.SeparatedPieLemon.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieLime.name=Separated Lime Pie
+lydocia.SeparatedPieLime.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieOrange.name=Separated Orange Pie
+lydocia.SeparatedPieOrange.description=A slice of pie on a plate.
+
+lydocia.SeparatedPiePeach.name=Separated Peach Pie
+lydocia.SeparatedPiePeach.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieRaspberry.name=Separated Raspberry Pie
+lydocia.SeparatedPieRaspberry.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieStrawberry.name=Separated Strawberry Pie
+lydocia.SeparatedPieStrawberry.description=A slice of pie on a plate.
+
+lydocia.SeparatedPieVegetable.name=Separated Vegetable Pie
+lydocia.SeparatedPieVegetable.description=A slice of pie on a plate.
+
+lydocia.SeparatedSeparatedBread.name=Separated Separated Bread
+lydocia.SeparatedSeparatedBread.description=One slice of bread on a plate.
+
+lydocia.SeparatedSeparatedWatermelon.name=Separated Separated Watermelon
+lydocia.SeparatedSeparatedWatermelon.description=One watermelon slice on a plate.
+
+lydocia.SeparatedWatermelon.name=Separated Watermelon
+lydocia.SeparatedWatermelon.description=A watermelon cut in half.

@@ -1,0 +1,28 @@
+[b]Description[/b]
+
+Use the Decorator workbench to make items decorative! Want to have some decorative eggs in your chicken coop? Some carrots around your rabbit pen? Or maybe you want some petals to decorate your paths? This bench can do it! One input, one output, no cost – simple as that.
+
+The Combinator allows you to combine some ingredients and / or decorative items into a new decorative piece. Have a few eggs and a basket? Throw them together for and egg basket. (Or an omelet if you’re too rough).
+
+Last but not least, we have the Separator. Sure, you baked that beautiful pie, cooked that wonderful egg, harvested that gigantic watermelon. You’d like to display a piece of it… that’s where this machine comes in! This workbench slices your items into pieces, so you can use them as decoration.
+
+All three stations can be bought from the Shipping Catalogue.
+
+
+
+[b]Recipes[/b]
+- 3 Egg recipes
+- 2 Watermelon recipes
+- 2 Bread recipes
+- 12 pie recipes
+- 5 cake recipes
+
+Full list [url=https://www.lydocia.com/mods/staxel-mods/decoration-stations/]here[/url].
+
+[b]Changelog[/b]
+Full list [url=https://www.lydocia.com/mods/staxel-mods/decoration-stations/]here[/url].
+
+[b]Links[/b]
+[url=https://trello.com/c/LsuwvsSK/36-staxeldecorationstations]Trello[/url]
+[url=https://github.com/lydocia/staxelDecorationStations]GitHub[/url]
+[url=https://discord.gg/YPhAFKN]Discord[/url] for feedback, suggestions and chat.
